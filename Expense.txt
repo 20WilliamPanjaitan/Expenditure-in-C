@@ -1,0 +1,9 @@
+gladys 25 mei 2004 100000
+william 20 juli 2004 200000
+roulina 01 januari 2004 50000
+william 20 12 2022 100000
+nathan 12 12 2022 200
+nathan 12 12 2023 300
+gladys 13 12 2022 1000
+william 13 12 2025 20000
+william 14 12 2025 30000
